@@ -7,7 +7,7 @@ read opcion
 if [[ ( $opcion == "si" || $opcion == "Si" ) ]]; then
 echo "Hola usuario registrado"
 else
-echo "No pudes ingresar :p"
+echo "No puedes ingresar :p (jaime estuvo aquí)"
 fi
 
 
